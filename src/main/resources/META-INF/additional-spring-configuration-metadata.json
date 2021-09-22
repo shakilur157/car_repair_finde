@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "shakilur.app.jwtExpirationMs",
+      "type": "java.lang.String",
+      "description": "Description for shakilur.app.jwtExpirationMs."
+    }
+  ]
+}
